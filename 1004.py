@@ -1,0 +1,1 @@
+print('PROD = '+str(int(input())*int(input())))
